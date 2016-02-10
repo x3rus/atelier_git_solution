@@ -48,4 +48,15 @@ Petit exercice sur le contrôleur de révision **GIT** .
 
 * Créez une Branche nommée **atelier02** et basculer sur cette branche
 
-* 
+* Sous cette branche faire la créer le fichier : **fichier\_from\_atelier02.txt**
+
+        #!/bin/bash
+        #
+        ##########
+        ## MAIN ##
+
+        #une commande 
+        echo "Thomas " | showkey -a 2>/dev/null | grep -v "^Press" | grep -v ^$
+
+        #une commande similaire
+        echo "Thomas" |  od -A n -t x1 |sed 's/ /\\x/g'
