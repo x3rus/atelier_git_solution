@@ -95,3 +95,13 @@ Petit exercice sur le contrôleur de révision **GIT** .
 * Retourner dans la branche **master** et merger les modifications depuis la branche **branche_pas_facile** , vous devriez avoir un conflit sur le fichier __30\_caractere\_random.txt__ .
 
 * Résolvez le conflit en conservant la valeur généré dans la branche **branche_pas_facile**
+
+## <a name="utilisation_serveur"> Utilisation d'un serveur Git
+
+* Pour cette section vous aurez besoin d'un compte sur [GitHub](http://github.com), créez ce compte ceci est gratuit :D.
+
+* Créer un dépôt sur __GitHub__ , ce dernier contiendra votre dépôt de l'atelier. Créer le dépôt public afin de ne pas avoir de frais , je vous invite à créer le dépôt **VIDE** (__empty__) afin déviter des conflits lors de la synchronisation.
+
+* Configurer votre dépôt local pour qu'il utilise votre dépôt __Github__ comme serveur remote 
+
+* Pousser votre dépôt sur Github.
