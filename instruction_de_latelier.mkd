@@ -29,7 +29,7 @@ Petit exercice sur le contrôleur de révision **GIT** .
         Author: Robert Nesta (Bob) Marley <Bob@x3rus.com>
         Date:   Tue Dec 22 17:01:16 2015 -0500
 
-             Je modifie C pour avoir un autre com
+        Je modifie C pour avoir un autre com
 
 
 * Créez un fichier nommé **Atelier02.txt** avec le contenu suivant 
