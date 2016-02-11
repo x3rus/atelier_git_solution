@@ -18,7 +18,7 @@ Petit exercice sur le contrôleur de révision **GIT** .
 
 ## <a name="depot_public" /> Dépôt public 
 
-* Extraire depuis __github__ le dépôt suivant  ( TODO: AJOUTER le dépôt sur __github__)
+* Extraire depuis __github__ le dépôt suivant  : [https://github.com/x3rus/atelier_git](https://github.com/x3rus/atelier_git)
     Note j'ai mis la page web de __github__ volontairement l'information pour cloner le dépôt est présent sur la page
 
 ## <a name="work_with_repo" /> Manipulation du dépôt
